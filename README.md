@@ -22,3 +22,6 @@
     -util
   FEATURES
     -pasta TRIVIA_APP_TESTE  
+    -data
+    -domain
+    -presentation
