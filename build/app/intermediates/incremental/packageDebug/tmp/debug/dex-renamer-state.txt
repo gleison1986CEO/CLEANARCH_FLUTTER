@@ -1,4 +1,4 @@
-#Thu Aug 11 14:55:38 BRT 2022
-base.0=/home/jesusesenhor/Documentos/DART/CLEAN__/clean_architecture_TDD-main(1)/clean_architecture_TDD-main/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Thu Aug 11 15:20:06 BRT 2022
+base.0=/home/jesusesenhor/Documentos/DART/CLEAN__/TRIVIA_/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
