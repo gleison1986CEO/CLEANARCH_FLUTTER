@@ -1,8 +1,8 @@
 import 'dart:convert';
 
 import 'package:Gleison_CLEAN_ARCH/core/error/exceptions.dart';
-import 'package:Gleison_CLEAN_ARCH/features/number_trivia/data/datasources/TRIVIA_DATASOURCE.dart';
-import 'package:Gleison_CLEAN_ARCH/features/number_trivia/data/models/TRIVIA_MODEL.dart';
+import 'package:Gleison_CLEAN_ARCH/features/TRIVIA_APP_TESTE/data/datasources/TRIVIA_DATASOURCE.dart';
+import 'package:Gleison_CLEAN_ARCH/features/TRIVIA_APP_TESTE/data/models/TRIVIA_MODEL.dart';
 import 'package:mockito/annotations.dart';
 import 'package:mockito/mockito.dart';
 import 'package:flutter_test/flutter_test.dart';

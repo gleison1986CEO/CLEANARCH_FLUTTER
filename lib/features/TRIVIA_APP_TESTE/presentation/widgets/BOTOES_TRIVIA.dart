@@ -1,4 +1,4 @@
-import 'package:Gleison_CLEAN_ARCH/features/number_trivia/presentation/bloc/TRIVIA_BLOC.dart';
+import 'package:Gleison_CLEAN_ARCH/features/TRIVIA_APP_TESTE/presentation/bloc/TRIVIA_BLOC.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/src/provider.dart';
 

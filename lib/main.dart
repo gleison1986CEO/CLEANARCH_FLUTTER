@@ -1,6 +1,6 @@
-import 'features/number_trivia/domain/entities/TRIVIA_VARIAVEIS_ENTIDADE.dart';
-import 'features/number_trivia/presentation/pages/TRIVIA_DATA_NOME.dart';
-import 'features/number_trivia/presentation/pages/BUSCAR_NUMERO_TRIVIA.dart';
+import 'features/TRIVIA_APP_TESTE/domain/entities/TRIVIA_VARIAVEIS_ENTIDADE.dart';
+import 'features/TRIVIA_APP_TESTE/presentation/pages/TRIVIA_DATA_NOME.dart';
+import 'features/TRIVIA_APP_TESTE/presentation/pages/BUSCAR_NUMERO_TRIVIA.dart';
 
 import 'injection_container.dart' as di;
 import 'package:flutter/material.dart';

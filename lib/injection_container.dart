@@ -1,18 +1,18 @@
 import 'core/network/network_info.dart';
-import 'features/number_trivia/data/datasources/TRIVIA_REMOTE_SOURCE.dart';
+import 'features/TRIVIA_APP_TESTE/data/datasources/TRIVIA_REMOTE_SOURCE.dart';
 import 'package:http/http.dart';
 import 'package:internet_connection_checker/internet_connection_checker.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 import 'core/util/input_converter.dart';
-import 'features/number_trivia/data/datasources/TRIVIA_DATASOURCE.dart';
-import 'features/number_trivia/data/repositories/TRIVIA_REPO.dart';
-import 'features/number_trivia/domain/respositories/TRIVIA_REPOSITORIO_DOMAIN.dart';
-import 'features/number_trivia/domain/usecases/PEGAR_NUMERO_TRIVIA_EQUATABLE.dart';
-import 'features/number_trivia/presentation/bloc/TRIVIA_BLOC.dart';
+import 'features/TRIVIA_APP_TESTE/data/datasources/TRIVIA_DATASOURCE.dart';
+import 'features/TRIVIA_APP_TESTE/data/repositories/TRIVIA_REPO.dart';
+import 'features/TRIVIA_APP_TESTE/domain/respositories/TRIVIA_REPOSITORIO_DOMAIN.dart';
+import 'features/TRIVIA_APP_TESTE/domain/usecases/PEGAR_NUMERO_TRIVIA_EQUATABLE.dart';
+import 'features/TRIVIA_APP_TESTE/presentation/bloc/TRIVIA_BLOC.dart';
 import 'package:get_it/get_it.dart';
 import 'package:http/http.dart' as http;
-import 'features/number_trivia/domain/usecases/RANDOMIZAR_BOTAO_USECASE.dart';
+import 'features/TRIVIA_APP_TESTE/domain/usecases/RANDOMIZAR_BOTAO_USECASE.dart';
 
 // service locator
 final sl = GetIt.instance;

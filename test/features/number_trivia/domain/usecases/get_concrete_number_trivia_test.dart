@@ -3,9 +3,9 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:mockito/annotations.dart';
 import 'package:mockito/mockito.dart';
 
-import 'package:Gleison_CLEAN_ARCH/features/number_trivia/domain/entities/TRIVIA_VARIAVEIS_ENTIDADE.dart';
-import 'package:Gleison_CLEAN_ARCH/features/number_trivia/domain/respositories/TRIVIA_REPOSITORIO_DOMAIN.dart';
-import 'package:Gleison_CLEAN_ARCH/features/number_trivia/domain/usecases/PEGAR_NUMERO_TRIVIA_EQUATABLE.dart';
+import 'package:Gleison_CLEAN_ARCH/features/TRIVIA_APP_TESTE/domain/entities/TRIVIA_VARIAVEIS_ENTIDADE.dart';
+import 'package:Gleison_CLEAN_ARCH/features/TRIVIA_APP_TESTE/domain/respositories/TRIVIA_REPOSITORIO_DOMAIN.dart';
+import 'package:Gleison_CLEAN_ARCH/features/TRIVIA_APP_TESTE/domain/usecases/PEGAR_NUMERO_TRIVIA_EQUATABLE.dart';
 
 import 'get_random_number_trivia_test.mocks.dart';
 

@@ -1,5 +1,5 @@
-import 'package:Gleison_CLEAN_ARCH/features/number_trivia/data/models/TRIVIA_MODEL.dart';
-import 'package:Gleison_CLEAN_ARCH/features/number_trivia/domain/entities/TRIVIA_VARIAVEIS_ENTIDADE.dart';
+import 'package:Gleison_CLEAN_ARCH/features/TRIVIA_APP_TESTE/data/models/TRIVIA_MODEL.dart';
+import 'package:Gleison_CLEAN_ARCH/features/TRIVIA_APP_TESTE/domain/entities/TRIVIA_VARIAVEIS_ENTIDADE.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'dart:convert';
 

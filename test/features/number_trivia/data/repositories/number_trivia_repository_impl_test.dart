@@ -1,11 +1,11 @@
 import 'package:Gleison_CLEAN_ARCH/core/error/exceptions.dart';
 import 'package:Gleison_CLEAN_ARCH/core/error/failures.dart';
 import 'package:Gleison_CLEAN_ARCH/core/network/network_info.dart';
-import 'package:Gleison_CLEAN_ARCH/features/number_trivia/data/datasources/TRIVIA_DATASOURCE.dart';
-import 'package:Gleison_CLEAN_ARCH/features/number_trivia/data/datasources/TRIVIA_REMOTE_SOURCE.dart';
-import 'package:Gleison_CLEAN_ARCH/features/number_trivia/data/models/TRIVIA_MODEL.dart';
-import 'package:Gleison_CLEAN_ARCH/features/number_trivia/data/repositories/TRIVIA_REPO.dart';
-import 'package:Gleison_CLEAN_ARCH/features/number_trivia/domain/entities/TRIVIA_VARIAVEIS_ENTIDADE.dart';
+import 'package:Gleison_CLEAN_ARCH/features/TRIVIA_APP_TESTE/data/datasources/TRIVIA_DATASOURCE.dart';
+import 'package:Gleison_CLEAN_ARCH/features/TRIVIA_APP_TESTE/data/datasources/TRIVIA_REMOTE_SOURCE.dart';
+import 'package:Gleison_CLEAN_ARCH/features/TRIVIA_APP_TESTE/data/models/TRIVIA_MODEL.dart';
+import 'package:Gleison_CLEAN_ARCH/features/TRIVIA_APP_TESTE/data/repositories/TRIVIA_REPO.dart';
+import 'package:Gleison_CLEAN_ARCH/features/TRIVIA_APP_TESTE/domain/entities/TRIVIA_VARIAVEIS_ENTIDADE.dart';
 import 'package:dartz/dartz.dart';
 import 'package:mockito/annotations.dart';
 import 'package:mockito/mockito.dart';
