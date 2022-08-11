@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/Gleison_CLEAN_ARCH/BuildConfig.java
+ com.example.Gleison_CLEAN_ARCH.BuildConfig
